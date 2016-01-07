@@ -1,0 +1,28 @@
+name: abandoned
+favicon: null
+layout_spectrum: 0.5259746753145009
+typography_spectrum: 0.30254585575312376
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.3871864646207541
+  lightness: 0.9607929491903633
+  saturation: 0.5306489681825042
+  rhythmicContrast: 0.6461819289252162
+purpose: []
